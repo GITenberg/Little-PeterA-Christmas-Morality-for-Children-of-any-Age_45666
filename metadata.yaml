@@ -1,0 +1,48 @@
+_repo: Little-PeterA-Christmas-Morality-for-Children-of-any-Age_45666
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hardy, Paul
+    alias: Hardy, David Paul Frederick
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '9890'
+    url: http://www.gutenberg.org/2009/agents/9890
+covers:
+- cover_type: archival
+  image_path: 45666-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Malet, Lucas
+    alias: Harrison, Mary St. Leger Kingsley
+    birthdate: 1852
+    deathdate: 1931
+    gutenberg_agent_id: '2808'
+    url: http://www.gutenberg.org/2009/agents/2808
+    wikipedia: http://en.wikipedia.org/wiki/Lucas_Malet
+description: ''
+gutenberg_issued: '2014-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Romans -- Juvenile fiction'
+- !lcsh 'Christmas -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Sick -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Politicians -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Children -- Death -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+title: 'Little Peter: A Christmas Morality for Children of any Age'
+url: http://www.gutenberg.org/ebooks/45666
